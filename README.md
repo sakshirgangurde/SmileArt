@@ -35,6 +35,6 @@ It helps patients **schedule dental appointments**, **track treatment history**,
 2. Install dependencies:
    ```bash
    flutter pub get
-3.Run the app:
+3. Run the app:
    ```bash
    flutter run
