@@ -17,8 +17,7 @@ It helps patients **schedule dental appointments**, **track treatment history**,
 ## 🛠️ Tech Stack
 - **Framework:** Flutter (Dart)  
 - **Database:** Firebase Firestore (NoSQL, real-time)  
-- **Authentication:** Firebase Auth  
-- **IDE / Tools:** Android Studio, VS Code, GitHub  
+- **Authentication:** Firebase Auth    
 
 ---
 
@@ -34,10 +33,8 @@ It helps patients **schedule dental appointments**, **track treatment history**,
    git clone https://github.com/sakshirgangurde/SmileArt.git
    cd SmileArt
 2. Install dependencies:
-
-flutter pub get
-
-
+   ```bash
+   flutter pub get
 3.Run the app:
-
-flutter run
+   ```bash
+   flutter run
